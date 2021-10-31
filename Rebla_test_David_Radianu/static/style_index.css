@@ -1,0 +1,42 @@
+body{
+    font-family: 'Trebuchet MS', sans-serif;
+    background-color: rgb(253, 195, 0);
+    height: 100vh;
+}
+
+h1{
+    font-size:100px ;
+    color:white;
+}
+h3{
+    font-size: 30px;
+    color: white;
+}
+
+p{
+    font-size: 30px;
+    color: rgb(85, 81, 81);
+}
+
+#by_name{
+    position:relative;
+    top: -50px;
+    left: 20px;
+
+}
+
+div.main_div{
+    position: relative;
+    top: 100px;
+    left: 40px;
+
+}
+
+.button1{
+    background-color: rgba(64, 224, 208, 0.541);
+    font-size: 20px;
+}
+#btn{
+    position: relative;
+    left: 300px;
+}
